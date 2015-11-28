@@ -3,7 +3,7 @@
 Quick Map Search
 ===
 
-*initiate a secure search on Google Maps from the context menu of your Chrome web browser*
+*start a secure search on Google Maps from the context menu of your Chrome web browser*
 
 Usage
 ---
