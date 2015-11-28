@@ -1,0 +1,14 @@
+{
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Quick Map Search"
+   },
+   "appDescription": {
+      "description": "A description what this application does, displayed in extensions menu",
+	  "message": "Rechtsklik op een geselecteerd stuk tekst en gebruik dat voor een beveiligde zoekopdracht in Google Maps."
+   },
+   "search_in_google_maps": {
+      "description": "The description of the application, displayed in the context menu.",
+      "message": "Zoek in Google Maps"
+   }
+}
