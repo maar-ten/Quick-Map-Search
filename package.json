@@ -1,0 +1,28 @@
+{
+  "name": "quick-image-search",
+  "version": "1.1.0",
+  "description": "This browser extension adds a context menu to the Chrome web browser that allows you to quickly start a secure Google Maps search",
+  "author": "maar-ten",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/maar-ten/Quick-Map-Search/issues"
+  },
+  "homepage": "https://github.com/maar-ten/Quick-Map-Search#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maar-ten/Quick-Map-Search.git"
+  },
+  "keywords": [
+    "Google",
+    "Maps",
+    "Search",
+    "Secure",
+    "Chrome",
+    "Browser",
+    "Extension"
+  ],
+  "main": "scripts/eventPage.js",
+  "devDependencies": {
+    "jasmine": "^2.3.2"
+  }
+}
