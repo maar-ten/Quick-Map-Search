@@ -1,4 +1,4 @@
-![Quick Map Search](icon-128.png)
+![Quick Map Search](icons/icon-128.png)
 
 Quick Map Search
 ===
