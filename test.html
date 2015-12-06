@@ -1,0 +1,30 @@
+<<!DOCTYPE html>
+    <html>
+
+    <head>
+        <script type="text/javascript">
+        foobar = (function() {
+            var _this;
+            _this = {
+                bar: function() {
+                    console.log('Blech');
+                },
+                foo: function() {
+                    _this.bar = function() {
+                        console.log('succes!');
+                    }
+                }
+            }
+            return _this;
+        })();
+
+        foobar.bar();
+        foobar.foo();
+        foobar.bar();
+        </script>
+    </head>
+
+    <body>
+    </body>
+
+    </html>
