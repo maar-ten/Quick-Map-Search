@@ -1,0 +1,6 @@
+_locales/*
+icons/*
+scripts/*
+LICENSE.md
+manifest.json
+README.md
