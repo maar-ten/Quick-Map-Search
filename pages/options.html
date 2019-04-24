@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Quick Map Search</title>
+    <style>
+        div {
+          margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        Map engine:
+        <select id="mapEngine">
+            <option value="google">Google Maps</option>
+            <option value="osm">OpenStreetMap</option>
+        </select>
+    </div>
+
+    <div>
+        <button id="save">Save</button> <span id="status"></span>
+    </div>
+    <script src="/scripts/mapEngines.js"></script>
+    <script src="/scripts/options.js"></script>
+</body>
+</html>

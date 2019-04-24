@@ -30,11 +30,11 @@
     }
 
     /**
-     * Create a context menu which will only show up for selected text.
+     * Create a context menu that will show up when some text is selected.
      */
     chrome.contextMenus.create({
         "id": "gis_button",
-        "title": chrome.i18n.getMessage("search_in_google_maps"),
+        "title": chrome.i18n.getMessage("contextMenuName"),
         "type": "normal",
         "contexts": ["selection"]
     });

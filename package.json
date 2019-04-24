@@ -1,7 +1,7 @@
 {
   "name": "quick-image-search",
-  "version": "1.1.0",
-  "description": "This browser extension adds a context menu to the Chrome web browser that allows you to quickly start a secure Google Maps search",
+  "version": "2.0",
+  "description": "This browser extension adds a context menu to the Chrome web browser that allows you to quickly start a secure maps search with Google Maps or OpenStreetMap",
   "author": "maar-ten",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
@@ -15,6 +15,8 @@
   "keywords": [
     "Google",
     "Maps",
+    "OpenStreetMap",
+    "OSM",
     "Search",
     "Secure",
     "Chrome",

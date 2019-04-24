@@ -5,10 +5,10 @@
    },
    "appDescription": {
       "description": "A description what this application does, displayed in extensions menu",
-	  "message": "Right click some selected text and use that for a secure search using Google Maps."
+	  "message": "Right click some selected text and use that for a secure map search."
    },
-   "search_in_google_maps": {
+   "contextMenuName": {
       "description": "The description of the application, displayed in the context menu.",
-      "message": "Search in Google Maps"
+      "message": "Quick Map Search"
    }
 }
