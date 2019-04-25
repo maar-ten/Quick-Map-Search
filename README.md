@@ -1,9 +1,15 @@
-![Quick Map Search](icon-128.png)
+![Quick Map Search](icons/icon-128.png)
 
 Quick Map Search
 ===
 
-*start a secure search on Google Maps from the context menu of your Chrome web browser*
+Start a secure search on Google Maps from the context menu of your web browser
+
+Available from
+---
+**[Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/quick-map-search/)**
+
+**[Chrome Web Store](https://chrome.google.com/webstore/detail/quick-image-search/ihbfgploaolhdcfohgmkgeelahfghngd)**
 
 Usage
 ---
@@ -17,5 +23,5 @@ This browser extension doesn't require any permissions
 
 Legal information
 ---
-The code for this extension was largely copied and modified from Cheng Lee's MapMe extension. I've left his copyright statement in the source files.
+Some code for this extension was copied from Cheng Lee's MapMe extension and then modified. I've left his copyright statement in the source files.
 
