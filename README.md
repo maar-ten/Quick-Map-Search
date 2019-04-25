@@ -13,7 +13,7 @@ Available from
 
 Usage
 ---
-After installing this Chrome browser extension there'll be a new entry in your context menu (right-click menu) when some selected text was right-clicked. Selecting this menu option will initiate a Google Maps search via HTTPS.
+After installing this browser extension there'll be a new entry in your context menu (right-click menu) when some selected text was right-clicked. Selecting this menu option will initiate a Google Maps search via HTTPS.
 
 ![Screenprint](http://i.imgur.com/1VtoxaR.png)
 
