@@ -9,7 +9,7 @@ Available from
 ---
 **[Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/quick-map-search/)**
 
-**[Chrome Web Store](https://chrome.google.com/webstore/detail/quick-image-search/ihbfgploaolhdcfohgmkgeelahfghngd)**
+**[Chrome Web Store](https://chrome.google.com/webstore/detail/quick-map-search/ifgfomjbhfndhoeefobmiaclhnhiknbl)**
 
 Usage
 ---
