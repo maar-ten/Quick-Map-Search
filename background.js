@@ -13,7 +13,7 @@ function createUrl(selectionText) {
 }
 
 function createGoogleMapsUrl(query) {
-    return `${BASE_URL}/maps/search${query}`;
+    return `${BASE_URL}/maps/search/${query}`;
 }
 
 /**
