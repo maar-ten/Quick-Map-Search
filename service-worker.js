@@ -17,12 +17,14 @@ function createGoogleMapsUrl(query) {
 }
 
 /**
- * Create a context menu which will only show up for selected text.
+ * When bootstrapping the extension create a context menu that will only show up for selected text.
  */
- chrome.contextMenus.create({
-    "id":       "gis_button",
-    "title":    chrome.i18n.getMessage("search_in_google_maps"),
-    "type":     "normal",
-    "contexts": ["selection"]
+chrome.runtime.onInstalled.addListener(() => {
+    chrome.contextMenus.create({
+        'id':       'quick-map-search-button',
+        'title':    chrome.i18n.getMessage('search_in_google_maps'),
+        'type':     'normal',
+        'contexts': ['selection']
+    });
 });
 chrome.contextMenus.onClicked.addListener(onClickHandler);
