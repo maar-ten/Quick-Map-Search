@@ -10,7 +10,7 @@ Available from
 [<img src="chrome-icon.svg" alt="Chrome Web Store link" title="Chrome Web Store" width="29">](https://chrome.google.com/webstore/detail/quick-map-search/ifgfomjbhfndhoeefobmiaclhnhiknbl)
 **[Chrome Web Store](https://chrome.google.com/webstore/detail/quick-map-search/ifgfomjbhfndhoeefobmiaclhnhiknbl)**
 
-[<img src="firefox-icon.svg" alt="Firefox Add-ons link" title="Firefox Add-ons" width="25">](https://addons.mozilla.org/en-US/firefox/addon/quick-map-search/)
+[<img src="firefox-icon.svg" alt="Firefox Add-ons link" title="Firefox Add-ons" width="25">](https://addons.mozilla.org/en-US/firefox/addon/quick-map-search/)&nbsp;
 **[Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/quick-map-search/)**
 
 
